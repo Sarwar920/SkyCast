@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f8ff; /* Light blue background for aesthetics */
+}
+
+h1 {
+    color: #007bff; /* Blue heading */
+}
+
+#weatherData {
+    display: none; /* Hide initially */
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #fff; /* White box for weather details */
+}
+
+#error {
+    font-weight: bold; /* Bold error messages */
+}
